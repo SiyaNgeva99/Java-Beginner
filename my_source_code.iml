@@ -12,6 +12,49 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter_11/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_12/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter_13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dummies/Book 1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dummies/Book 2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dummies/Book 3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dummies/Book 4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_07/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_07/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_08/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_08/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_09/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_09/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_10/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_11/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_11/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_12/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_12/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_13/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_13/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_14/Exercises/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_14/Practices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_07_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_08_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_08_prac_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_08_prac_03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_09_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_09_prac_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_10_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_10_prac_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_11_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_11_prac_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_12_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_12_prac_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_13_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_13_prac_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_13_prac_03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practices/chap_14_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap_07_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap_08_prac_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap_08_prac_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap_07_prac_01" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/chap_08_prac_01" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/chap_08_prac_02" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter_15/Exercises/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
